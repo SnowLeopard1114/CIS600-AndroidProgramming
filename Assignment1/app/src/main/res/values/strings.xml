@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="roll_0">Get a message</string>
+    <string name="roll_1">Get a message</string>
+    <string name="text_1">Switch to Landscape Mode</string>
+    <string name="hello_0">    Hello! I am Peng Zhang!</string>
+    <string name="hello_1">   Hello! I am Peng Zhang!</string>
+    <string name="hello_2">  I am a graduate student of Computer Engineering in Syracuse University.</string>
+    <string name="hello_3">This is my second year of graduate school and my GPA is 3.90, my native language is Chinese.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="hello_2" translatable="false">我是雪城大学计算机工程专业的一名在读研究生</string>
+    <string name="hello_3" translatable="false">这是我的研究生第二年以及我的平均绩点是3.90，我的母语是中文</string>
+    <string name="hello_1" translatable="false">你好，我是张鹏</string>
+    <string name="roll_1">弹出信息</string>
+    <string name="hello_0">"         你好，我是张鹏"</string>
+    <string name="text_1">切换至横屏模式</string>
+    <string name="roll_0">弹出信息</string>
+</resources>
