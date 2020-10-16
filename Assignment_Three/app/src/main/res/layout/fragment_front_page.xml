@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FrontPageFragment">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FrontPageFragment">
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/AboutMe"
+            android:layout_width="207dp"
+            android:layout_height="62dp"
+            android:layout_margin="10dp"
+            android:text="About ME!" />
+
+        <FrameLayout
+            android:id="@+id/container2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+        />
+        <Button
+            android:id="@+id/Page"
+            android:layout_width="207dp"
+            android:layout_height="62dp"
+            android:layout_margin="10dp"
+            android:text="MOVIES PAGE VIEW" />
+
+        <Button
+            android:id="@+id/MasterDetail"
+            android:layout_width="207dp"
+            android:layout_height="62dp"
+            android:layout_margin="10dp"
+            android:text="MOVIES MASTER- DETAIL VIEW" />
+
+    </LinearLayout>
+
+</FrameLayout>
+</ScrollView>
